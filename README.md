@@ -1,7 +1,8 @@
 # Image_compressor
 Image Compressor: This will compress image into any size and all are less than 50 kb.
 
-# Desclaimer: Please don't Believe on fork version,if you use fork version and it not works then I am not responsible because the fork version is not mine, someone else have created it.
+# Desclaimer: 
+Please don't Believe on fork version,if you use fork version and it not works then I am not responsible because the fork version is not mine, someone else have created it.
 
 The original version is here.
 
